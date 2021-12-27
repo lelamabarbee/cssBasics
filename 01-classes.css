@@ -1,0 +1,16 @@
+div {
+    color: rgb(205, 50, 140);
+}
+
+.css-class h1{
+    font-size: 18px;
+}
+
+.css-class p{
+    font-size: 20px;
+    color: teal;
+}
+
+.css-class li {
+    color: sienna;
+}

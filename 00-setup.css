@@ -1,0 +1,9 @@
+div {color:red}
+
+body {
+    background-color: rgb(65, 225, 212);
+}
+
+.wrapper{
+    border: 10px solid red;
+}
